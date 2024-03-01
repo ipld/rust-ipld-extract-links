@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = [
     "Volker Mische <volker.mische@gmail.com>"
 ]
-repository = "https://github.com/vmx/ipld-extract-links"
+repository = "https://github.com/ipld/rust-ipld-extract-links"
 edition = "2021"
 description = "Extract links from IPLD encoded data"
 license = "MIT OR Apache-2.0"
