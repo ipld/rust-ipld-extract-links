@@ -1,3 +1,5 @@
+**Deprecated**: This crate was moved into [`ipld-core`] as module, hence please use `ipld-core` >= v0.3.2 instead.
+
 IPLD extract links
 ==================
 
@@ -43,4 +45,5 @@ at your option.
 
 [`serde_ipld_dagcbor`]: https://crates.io/crates/serde_ipld_dagcbor
 [`serde_ipld_dagjson`]: https://crates.io/crates/serde_ipld_dagjson
+[`ipld-core`]: https://crates.io/crates/ipld-core
 [`serde_json`]: https://crates.io/crates/serde_json
